@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Leon from HexLab 
-- 👀 I’m interested in "Everything Helium"
+- 👋 Hi, 
+- 👀 I’m interested in "Everything gadget"
 - 🌱 I’m currently learning about devices, LoraWan, hotspots, gateways.
 - 💞️ I’m looking to collaborate on ... future plan
 - 📫 How to reach me ...
