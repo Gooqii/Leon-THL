@@ -1,11 +1,11 @@
 - 👋 Hi, 
 - 👀 I’m interested in "Everything gadget"
-- 🌱 I’m currently learning about devices, LoraWan, hotspots, gateways.
-- 💞️ I’m looking to collaborate on ... future plan
+- 🌱 
+- 💞️ 
 - 📫 How to reach me ...
 - Youtube- https://www.youtube.com/channel/UCmNoqYfZhY8M-Sld4pnTYJw
-- Twitter - https://twitter.com/thehexlab1 (@thehexlab1)
-- Instagram - https://www.instagram.com/he.xlab/
+- Twitter - 
+- Instagram - 
 
 <!---
 Leon-THL/Leon-THL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
